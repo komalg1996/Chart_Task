@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "64c20c9abf0a920bd2bfd72f"
+  },
+  "name": "John",
+  "age": 30,
+  "email": "john@g.com",
+  "city": "New York"
+},
+{
+  "_id": {
+    "$oid": "64c20d33bf0a920bd2bfd731"
+  },
+  "name": "Sam",
+  "age": 25,
+  "email": "sam@g.com",
+  "city": "paris"
+},
+{
+  "_id": {
+    "$oid": "64c20d65bf0a920bd2bfd733"
+  },
+  "name": "Koko",
+  "age": 27,
+  "email": "koko@g.com",
+  "city": "Pune"
+},
+{
+  "_id": {
+    "$oid": "64c20d94bf0a920bd2bfd735"
+  },
+  "name": "Kartik",
+  "age": 20,
+  "email": "kar@g.com",
+  "city": "Delhi"
+},
+{
+  "_id": {
+    "$oid": "64c20dccbf0a920bd2bfd737"
+  },
+  "name": "Akash",
+  "age": 25,
+  "email": "aka@g.com",
+  "city": "Pune"
+}]
